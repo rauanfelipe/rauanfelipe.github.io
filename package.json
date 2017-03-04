@@ -1,0 +1,19 @@
+{
+  "name": "contact.rauan",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rauanfelipe/contact.rauan.git"
+  },
+  "author": "Rauan Assis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rauanfelipe/contact.rauan/issues"
+  },
+  "homepage": "https://github.com/rauanfelipe/contact.rauan#readme"
+}
