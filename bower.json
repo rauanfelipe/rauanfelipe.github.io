@@ -1,0 +1,23 @@
+{
+  "name": "contact.rauan",
+  "description": "portfolio",
+  "main": "index.js",
+  "authors": [
+    "Rauan Assis"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/rauanfelipe/contact.rauan",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "typed.js": "~1.1.1",
+    "jquery": "~2.1.4",
+    "masonry": "~3.3.2",
+    "font-awesome": "fontawesome#^4.5.0"
+  }
+}
