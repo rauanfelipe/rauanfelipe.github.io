@@ -1,5 +1,4 @@
 $(function() {
-  console.log("js bet here");
   $('#typed').typed({
     strings: [
     "Hi",
