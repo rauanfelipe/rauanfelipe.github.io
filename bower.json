@@ -1,12 +1,12 @@
 {
   "name": "contact.rauan",
   "description": "portfolio",
-  "main": "index.js",
+  "main": "",
   "authors": [
     "Rauan Assis"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/rauanfelipe/contact.rauan",
+  "homepage": "https://github.com/rauanfelipe/rauanfelipe.github.io",
   "ignore": [
     "**/.*",
     "node_modules",
